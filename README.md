@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldrxc!
 - 👀 I’m interested in programming, gaming, kdramas
-- 🌱 I’m currently studying in singapore, in a local polytechnic, studying media & IT
+- 🌱 I’m currently studying in a local polytechnic in singapore, studying media & IT
 - 📫 How to reach me ...
 
 <!---
