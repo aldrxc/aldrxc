@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aldrxc!
-- 👀 I’m interested in programming, gaming, netflixx
-- 🌱 I graduated from a local polytechnic in singapore, studying media & IT
+- 👋 Hi, I’m Aldric!
+- 👀 My hobbies are coding, gaming, cathing up on netflix shows
+- 🌱 I graduated from a local polytechnic in singapore, with a Diploma in Multimedia & Infocomm Technology
 <!--- 📫 How to reach me ...
 --->
 <!---
